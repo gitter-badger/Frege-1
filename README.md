@@ -1,4 +1,6 @@
 # frege
+
+[![Join the chat at https://gitter.im/Frege-princetoad/Lobby](https://badges.gitter.im/Frege-princetoad/Lobby.svg)](https://gitter.im/Frege-princetoad/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 Reverse a package.json file to `npm install` script.
 
 [![NPM](https://nodei.co/npm/frege.png)](https://nodei.co/npm/frege/)
